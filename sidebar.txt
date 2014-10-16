@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[awi:home|Door43 (awi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-awi|d43-awi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-awi/archive/master.zip|d43-awi.zip]]
+
+**Recent Changes**
+{{changes>ns = awi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/awi|Ethnologue data]]
+
